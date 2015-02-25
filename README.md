@@ -1,6 +1,8 @@
 # launchpunk
 Have fun with babylonjs, a virtual novation launchpad, and some daftpunk sounds !
 
+![launchpunk screenshot](https://raw.githubusercontent.com/oYo-fr/launchpunk/master/screenshot.png)
+
 # setup
 Clone the repository, and run npm install
 
