@@ -1,5 +1,3 @@
-//http://jazz-soft.net/download/Jazz-Plugin/
-
 if (BABYLON.Engine.isSupported()) {
 
     var soundMap = [
